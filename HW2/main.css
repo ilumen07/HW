@@ -1,0 +1,63 @@
+table {
+    width: auto;
+    height: auto;
+    border-collapse: collapse;
+}
+
+.div1 { 
+    width: 370px; 
+    background: #ccc;
+    padding: 5px;
+    padding-right: 10 px; 
+    border: solid 1px black; 
+    float: left;
+	position: relative;
+	top: 50px;
+   }
+.div2 { 
+    width: 160px; 
+    background: #fc0; 
+    padding: 5px; 
+    border: solid 1px black; 
+    float: left; 
+    position: relative; 
+    top: 0px; 
+    left: -170px; 
+   }
+   
+ .div3 { 
+    width: 300px; 
+    background: #fe0; 
+    padding: 5px; 
+    border: solid 1px black; 
+    position: absolute;
+	left: 40%; 
+   }
+   
+ .div4 { 
+    width: 300px; 
+    background: #ae0; 
+    padding: 5px; 
+    border: solid 1px black; 
+    position: absolute;
+	left: 40%; 
+   }
+   
+.div5 { 
+    width: 300px; 
+    background: #ab0; 
+    padding: 5px; 
+    border: solid 1px black; 
+    position: absolute;
+	left: 40%;     
+}
+
+.div6 { 
+    width: 300px; 
+    background: #ef0; 
+    padding: 5px; 
+    border: solid 1px black; 
+    position: absolute;
+	left: 40%;     
+}
+
